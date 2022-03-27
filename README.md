@@ -4,12 +4,10 @@
 * 💻I’m proficient in Java with decent problem solving skills. 
 * 🌐I’m currently learning ML & Frontend, in order to be capable of creating an end-to-end product. <li>📫 Contact me - <a href="mailto:sagnickbhar@gmail.com">Email</a></li>
 
-**Tech Stack 💻**
+**Tech Stat 💻**
 
 - Languages: &nbsp;
-  ![Java]
-  ![Python]
-  ![HTML]
+  Java, Python, HTML
   
   
 - Frameworks: &nbsp;
