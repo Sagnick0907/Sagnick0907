@@ -34,8 +34,8 @@
 
 <p align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avijeet108&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avijeet108&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sagnick0907&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnick0907&theme=radical" />
   
 </p>
 
