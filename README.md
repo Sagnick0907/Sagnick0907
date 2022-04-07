@@ -7,12 +7,9 @@
 **Tech Stat 💻**
 
 - Languages: &nbsp;
-  Java, Python, HTML
+  Java, Python, HTML, MYSQL
   
   
-- Frameworks: &nbsp;
-  
-
 - Databases:  &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
   
