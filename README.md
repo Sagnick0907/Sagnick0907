@@ -1,7 +1,7 @@
 ### Hi there 👋
 **About Me 😄**
 * 👨🏽‍💻I’m currently a third year undergraduate pursuing B.Tech in CSE from IEM Kolkata. 
-* 💻I’m proficient in Java with decent problem solving skills & have solved various testcases using the knowledge of ML & DL algorithms.
+* 💻I’m proficient in Java with decent problem solving skills and my big goal is to solve numerous testcases using the knowledge of ML & DL algorithms.
 * 🌐I’m currently learning ML & Frontend, in order to be capable of creating an end-to-end product. <li>📫 Contact me - <a href="mailto:sagnickbhar@gmail.com">Email</a></li>
 
 **Tech Stat 💻**
