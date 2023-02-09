@@ -7,7 +7,7 @@
 **Tech Stat 💻**
 
 - Languages: &nbsp;
-  Java, Python, HTML, MYSQL
+  Java, Python, C++, HTML, MYSQL
   
   
 - Databases:  &nbsp;
