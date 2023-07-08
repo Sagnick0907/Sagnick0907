@@ -1,13 +1,13 @@
 ### Hi there 👋
 **About Me 😄**
-* 👨🏽‍💻I am currently a final year undergraduate pursuing B.Tech in CSE from IEM Kolkata. 
-* 💻I’m proficient in Java with decent problem solving skills and have solved numerous testcases using the knowledge of ML & DL algorithms.
+* 👨🏽‍💻I am currently a 1st year postgraduate student pursuing M.Tech in CSE from IIIT Hyderabad. 
+* 💻I’m proficient in C++ with decent problem solving skills and have solved numerous testcases using the knowledge of python, ML & DL algorithms.
 * 🌐I’m currently learning ML & Frontend, in order to be capable of creating an end-to-end product. <li>📫 Contact me - <a href="mailto:sagnickbhar@gmail.com">Email</a></li>
 
 **Tech Stat 💻**
 
 - Languages: &nbsp;
-  Java, Python, C++, HTML, MYSQL
+  C++, C, Python, Java , HTML, MYSQL
   
   
 - Databases:  &nbsp;
