@@ -11,8 +11,7 @@
   
   
 - Databases:  &nbsp;
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-red)  
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-red)  
   
 
 - Tools & IDEs used: &nbsp;
