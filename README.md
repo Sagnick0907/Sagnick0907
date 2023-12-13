@@ -7,11 +7,13 @@
 **Tech Stat 💻**
 
 - Languages: &nbsp;
-  C++, C, Python, Java , HTML, MYSQL
+  C++, C, Python, Java , HTML, CSS, Javascript, ReactJS, MERN Stack, MongoDB, MYSQL
   
   
 - Databases:  &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+  
+  ![MongoDB]([https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql](https://img.shields.io/badge/just%20the%20MongoDB-8A2BE2)) 
   
 
 - Tools & IDEs used: &nbsp;
