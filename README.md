@@ -23,8 +23,8 @@
 
 <p align="center">
   <img width="33%" height=200 src="https://github-readme-stats.vercel.app/api?username=Sagnick0907&show_icons=true&theme=radical" />
-  <img width="33%" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnick0907&theme=radical" />
   <img width="33%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagnick0907&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sagnick0907" />
+  <img width="33%" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnick0907&theme=radical" />
 </p>
 
 
