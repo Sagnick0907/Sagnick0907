@@ -1,7 +1,7 @@
 ### Hi there 👋
 **About Me 😄**
 * 👨🏽‍💻I work on integrating AI into EdTech, building responsible, scalable, and impactful solutions across in both data science and engineering. 
-* 🌐 <li>📫 Contact me - <a href="mailto:sagnickbhar@gmail.com">Email</a></li>
+* 📫 Contact me - <a href="mailto:sagnickbhar@gmail.com">Email</a></li>
 
 **Tech Stat 💻**
 
