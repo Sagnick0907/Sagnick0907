@@ -1,8 +1,7 @@
 ### Hi there 👋
 **About Me 😄**
-* 👨🏽‍💻I am currently a 1st year postgraduate student pursuing M.Tech in CSE from IIIT Hyderabad. 
-* 💻I’m proficient in C++ with decent problem solving skills and have solved numerous testcases using the knowledge of python, ML & DL algorithms.
-* 🌐I’m currently learning ML & Frontend, in order to be capable of creating an end-to-end product. <li>📫 Contact me - <a href="mailto:sagnickbhar@gmail.com">Email</a></li>
+* 👨🏽‍💻I work on integrating AI into EdTech, building responsible, scalable, and impactful solutions across in both data science and engineering. 
+* 🌐 <li>📫 Contact me - <a href="mailto:sagnickbhar@gmail.com">Email</a></li>
 
 **Tech Stat 💻**
 
